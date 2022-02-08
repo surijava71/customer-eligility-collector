@@ -1,0 +1,2 @@
+com\healthfirst\amazonws\kafka\collector\producer\Producer.class
+com\healthfirst\amazonws\kafka\collector\MSKCollectorHandler.class
